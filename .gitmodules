@@ -1,6 +1,6 @@
 [submodule "riscv-isa-sim"]
 	path = riscv-isa-sim
-	url = https://github.com/riscv/riscv-isa-sim.git
+	url = https://github.com/GaloisInc/riscv-isa-sim.git
 [submodule "riscv-fesvr"]
 	path = riscv-fesvr
 	url = https://github.com/riscv/riscv-fesvr.git
